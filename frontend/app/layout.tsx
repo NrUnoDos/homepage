@@ -20,6 +20,7 @@ export default function RootLayout({
             <div className="mx-auto max-w-5xl px-4 py-4 flex items-center justify-center gap-6 text-sm text-gray-700">
                 <Link href="/" className="hover:underline">Home</Link>
                 <Link href="/impressum" className="hover:underline">Impressum</Link>
+                <Link href="/datenschutz" className="hover:underline">Datenschutz</Link>
             </div>
         </footer>
         </body>
