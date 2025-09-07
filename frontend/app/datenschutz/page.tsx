@@ -17,21 +17,22 @@ export default function Datenschutz() {
                 <h2 className="text-lg font-semibold">Automatische Datenspeicherung</h2>
                 <p>Wenn Sie heutzutage Webseiten besuchen, werden gewisse Informationen automatisch erstellt und
                     gespeichert, so auch auf dieser Webseite.</p>
-                <p>
-                    Wenn Sie unsere Webseite so wie jetzt gerade besuchen, speichert unser Webserver (Computer auf dem
-                    diese Webseite gespeichert ist) automatisch Daten wie
-                    <ul className="list-disc list-inside">
-                        <li> die Adresse (URL) der aufgerufenen Webseite</li>
-                        <li>Browser und Browserversion</li>
-                        <li>das verwendete Betriebssystem</li>
-                        <li>die Adresse (URL) der zuvor besuchten Seite (Referrer URL)</li>
-                        <li>den Hostname und die IP-Adresse des Geräts von welchem aus zugegriffen wird</li>
-                        <li>Datum und Uhrzeit</li>
-                    </ul>
-                    in Dateien (Webserver-Logfiles).
+                <p>Wenn Sie unsere Webseite so wie jetzt gerade besuchen, speichert unser Webserver (Computer auf dem
+                    diese Webseite gespeichert ist) automatisch Daten wie</p>
+                <ul className="list-disc list-inside">
+                    <li> die Adresse (URL) der aufgerufenen Webseite</li>
+                    <li>Browser und Browserversion</li>
+                    <li>das verwendete Betriebssystem</li>
+                    <li>die Adresse (URL) der zuvor besuchten Seite (Referrer URL)</li>
+                    <li>den Hostname und die IP-Adresse des Geräts von welchem aus zugegriffen wird</li>
+                    <li>Datum und Uhrzeit</li>
+                </ul>
+                <p>in Dateien (Webserver-Logfiles).
                 </p>
-                <p>In der Regel werden Webserver-Logfiles zwei Wochen gespeichert und danach automatisch gelöscht. Wir
-                    geben diese Daten nicht weiter, können jedoch nicht ausschließen, dass diese Daten beim Vorliegen
+                <p>In der Regel werden Webserver-Logfiles zwei Wochen gespeichert und danach automatisch gelöscht.
+                    Wir
+                    geben diese Daten nicht weiter, können jedoch nicht ausschließen, dass diese Daten beim
+                    Vorliegen
                     von rechtswidrigem Verhalten eingesehen werden.</p>
             </section>
 
